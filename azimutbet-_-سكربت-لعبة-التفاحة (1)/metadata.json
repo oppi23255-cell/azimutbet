@@ -1,0 +1,6 @@
+{
+  "name": "AzimutBet | سكربت لعبة التفاحة",
+  "description": "سكربت وكاشف لعبة التفاحة المعتمد لمنصة AzimutBet - سجل بالبرومو كود AXC9 للحصول على التفعيل المباشر!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
